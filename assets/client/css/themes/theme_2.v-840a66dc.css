@@ -35283,7 +35283,6 @@ body.dark-scheme .block-container:not([style]) .social-links--colour_neutral.soc
 .header-menu__overlay .header-menu .header-menu__wrapper:not(.header-menu__wrapper--sticky) .header-menu__primary,
 .header-menu__overlay .header-menu .header-menu__wrapper:not(.header-menu__wrapper--sticky) .overlay-menu__show {
     color: #000;
-    font-weight: 600;
 }
 
 .flex-design-mode .header-menu__logo,

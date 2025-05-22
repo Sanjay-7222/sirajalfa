@@ -572,6 +572,6 @@
 #Social-Sidebar ul li a:hover,
 #Social-Sidebar ul li a span,
 #Social-Sidebar ul li a span:before {
-	background: #ffd900;
-	color: #000;
+	background: rgba(0, 0, 0);
+	color: #fff;
 	}
